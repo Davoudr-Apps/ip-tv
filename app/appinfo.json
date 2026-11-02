@@ -1,0 +1,13 @@
+{
+  "id": "com.community.oneto",
+  "version": "3.1.0",
+  "vendor": "community",
+  "type": "web",
+  "main": "index.html",
+  "title": "OneTo",
+  "icon": "icon.png",
+  "largeIcon": "icon-512.png",
+  "resolution": "1920x1080",
+  "disableBackHistoryAPI": true,
+  "requiredPermissions": ["network"]
+}
